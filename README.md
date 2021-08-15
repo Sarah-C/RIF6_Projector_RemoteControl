@@ -1,5 +1,5 @@
 # RIF6 - Projector: remote control commands.
-This is the mini Rif-6 projectors remote control commands.
+This is the mini Rif-6 projector's remote control commands.
 
 Grabbed using an M5Stack-Core2 with the IR Unit, and IRremoteESP8266.
 
