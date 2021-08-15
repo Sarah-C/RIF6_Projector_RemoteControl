@@ -98,4 +98,9 @@ uint32_t address = 0x0;
 uint32_t command = 0x47;       
 uint64_t data = 0xFFE21D;       
 
+Actual timings from the transmitter:
+
+![image](https://user-images.githubusercontent.com/1586332/129470622-f9b4face-8468-4ab4-a618-8b45cee73227.png)
+
+
 
