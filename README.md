@@ -17,7 +17,7 @@ Grabbed using an M5Stack-Core2 with the IR Unit, and IRremoteESP8266.
 
 Actual timings from the transmitter:
 
-![image](https://user-images.githubusercontent.com/1586332/129470960-703b4cec-2df7-43c1-ab0f-0048fce54705.png)
+![image](https://user-images.githubusercontent.com/1586332/129470981-dfe9bb36-1ccf-4efb-aeb1-cd428979102e.png)
 https://codepen.io/SarahC/pen/GRmQxJQ?editors=0010
        
 RIF6 Remote control.       
